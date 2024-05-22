@@ -23,9 +23,15 @@ This repo is for creating an AI based react HTML component
     {condition ? <AI model="model-name" prompt="hello" type="text" store="supabase" frequency="3600"/> : null}
     ```
 
+    of course, we want to use the content it generated in multiple place, where hook could help us to create a reusable AI generated content.
+
+    ```
+    const {content} = useAI({prompt: "gen a beverage name, only name"});
+    ```
+
     Since the content are generated, it would be great to use SSR (Server Side Render), eg Next.js, for better performance.
 
-2. Interactive AI component
+1. Interactive AI component
 
     ```
     <AI model="model-name" prompt="prompt content" variant="chat" />
