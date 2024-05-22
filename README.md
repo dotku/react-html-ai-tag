@@ -23,7 +23,7 @@ This repo is for creating an AI based react HTML component
     {condition ? <AI model="model-name" prompt="hello" type="text" store="supabase" frequency="3600"/> : null}
     ```
 
-    Since the content are generated, it would be greate to use SSR (Server Side Render), eg Next.js for best performance.
+    Since the content are generated, it would be great to use SSR (Server Side Render), eg Next.js, for better performance.
 
 2. Interactive AI component
 
