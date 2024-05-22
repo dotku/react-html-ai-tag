@@ -2,7 +2,8 @@
 
 This repo is for creating an AI based react HTML component
 
-> The following design is based on OpenAI models, we would see if we can adopt more AI models
+> The following design is based on OpenAI models and my robot devlopment experience.
+> This design is still under draft, we would see if we can adopt more AI models from different organizations.
 
 1. A simple content placement AI component
 
