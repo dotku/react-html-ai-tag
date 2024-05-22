@@ -1,8 +1,8 @@
 # react-html-ai-tag
 
-create an AI based HTML component
+This repo is for creating an AI based react HTML component
 
-> The following design is based on OpenAI models
+> The following design is based on OpenAI models, we would see if we can adopt more AI models
 
 1. A simple content generator placement
 
